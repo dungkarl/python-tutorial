@@ -19,7 +19,6 @@ class Employee:
 		return '{}-{}'.format(self.first, self.last)
 
 
-
 emp_1 = Employee('Dung', 'Karl', 5000)
 emp_2 = Employee('User', 'Test', 7000)
 
